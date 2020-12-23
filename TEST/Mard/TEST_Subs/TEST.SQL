@@ -1,0 +1,5 @@
+TEST, NEW-ET, 1=
+/AH .
+^EOS
+TEST, NEW-ET, 2=
+AH .

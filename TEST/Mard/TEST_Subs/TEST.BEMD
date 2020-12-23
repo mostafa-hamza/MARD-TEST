@@ -1,0 +1,12 @@
+*Saphire 8.0.9 
+TEST                    =
+* Name                  , Descriptions                                                                                                            , Analysis Type           , Phase Type              
+AH                      ,                                                                                                                         , RANDOM                  ,                         
+AH00                    ,                                                                                                                         , RANDOM                  ,                         
+AH01                    ,                                                                                                                         , RANDOM                  ,                         
+AH1                     ,                                                                                                                         , RANDOM                  ,                         
+INIT-EV                 ,                                                                                                                         , RANDOM                  ,                         
+<FALSE>                 ,                                                                                                                         , RANDOM                  ,                         
+<INIT>                  ,                                                                                                                         , RANDOM                  ,                         
+<PASS>                  ,                                                                                                                         , RANDOM                  ,                         
+<TRUE>                  ,                                                                                                                         , RANDOM                  ,                         

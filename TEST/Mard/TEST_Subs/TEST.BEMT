@@ -1,0 +1,11 @@
+*Saphire 8.0.9 
+*  Name                 ,Template Name           ,Use TemplateFlags, ModelType, PhaseType
+AH                      ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+AH00                    ,                         , T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+AH01                    ,                         , T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+AH1                     ,                         , T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+INIT-EV                 ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+<FALSE>                 ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+<INIT>                  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+<PASS>                  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+<TRUE>                  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         

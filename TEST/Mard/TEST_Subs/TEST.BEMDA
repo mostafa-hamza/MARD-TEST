@@ -1,0 +1,12 @@
+*Saphire 8.0.9 
+TEST                    =
+* Name                  , Alt. Name             , Alt. Descriptions                                                                                                            , A, Analysis Type           , Phase Type              
+AH                      ,                                                                                                                         , A, RANDOM                  ,                         
+AH00                    ,                                                                                                                         , A, RANDOM                  ,                         
+AH01                    ,                                                                                                                         , A, RANDOM                  ,                         
+AH1                     ,                                                                                                                         , A, RANDOM                  ,                         
+INIT-EV                 ,                                                                                                                         , A, RANDOM                  ,                         
+<FALSE>                 ,                                                                                                                         , A, RANDOM                  ,                         
+<INIT>                  ,                                                                                                                         , A, RANDOM                  ,                         
+<PASS>                  ,                                                                                                                         , A, RANDOM                  ,                         
+<TRUE>                  ,                                                                                                                         , A, RANDOM                  ,                         

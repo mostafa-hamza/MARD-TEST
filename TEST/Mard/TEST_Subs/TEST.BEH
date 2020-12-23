@@ -1,0 +1,21 @@
+*Saphire 8.0.9 
+TEST                    =
+* Event, Model Type, Desc./ Shaping Factor, Distrib. Type/ PSF, Probability/%, Multiplier, Event Notes
+AH                      , RANDOM, , N
+^EOS
+AH00                    , RANDOM, , N
+^EOS
+AH01                    , RANDOM, , N
+^EOS
+AH1                     , RANDOM, , N
+^EOS
+INIT-EV                 , RANDOM, , N
+^EOS
+<FALSE>                 , RANDOM, , N
+^EOS
+<INIT>                  , RANDOM, , N
+^EOS
+<PASS>                  , RANDOM, , N
+^EOS
+<TRUE>                  , RANDOM, , N
+^EOS

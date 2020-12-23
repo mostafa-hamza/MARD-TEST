@@ -1,0 +1,5 @@
+*Saphire 8.0.9 
+TEST                    =
+* Name  , tTypeName, COM, DLL Name, Proc Name
+* "consts", params, ...
+* ^EOS

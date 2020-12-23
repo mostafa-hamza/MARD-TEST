@@ -1,0 +1,12 @@
+*Saphire 8.0.9 
+TEST                    =
+* Name                  , Alt. Name             , Alt. Descriptions                                                                                                       , A
+AH                      , AH                      , New Top                                                                                                                 , A
+AH00                    , AH00                    ,                                                                                                                         , A
+AH01                    , AH01                    ,                                                                                                                         , A
+AH1                     , AH1                     ,                                                                                                                         , A
+INIT-EV                 , INIT-EV                 ,                                                                                                                         , A
+<FALSE>                 , <FALSE>                 ,                                                                                                                         , A
+<INIT>                  , <INIT>                  ,                                                                                                                         , A
+<PASS>                  , <PASS>                  ,                                                                                                                         , A
+<TRUE>                  , <TRUE>                  ,                                                                                                                         , A
