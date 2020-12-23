@@ -9,3 +9,9 @@ AH /AI .
 ^EOS
 TEST, NEW-ET, 4=
 AH AI .
+^EOS
+TEST, NEW-ET1, 1=
+/AH .
+^EOS
+TEST, NEW-ET1, 2=
+AH .

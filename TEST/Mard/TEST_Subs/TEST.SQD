@@ -3,3 +3,7 @@ TEST, NEW-ET=
 2                       , 
 3                       , 
 4                       , 
+^EOS
+TEST, NEW-ET1=
+1                       , 
+2                       , 
