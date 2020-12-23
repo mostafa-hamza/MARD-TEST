@@ -2,3 +2,5 @@ TEST=
 *  Name                 , Type , Alternate Name
 AH                      , OR   , AH                      
 AH0                     , AND  , AH0                     
+AI                      , OR   , AI                      
+AI0                     , OR   , AI0                     

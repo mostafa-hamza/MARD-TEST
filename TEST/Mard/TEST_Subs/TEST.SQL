@@ -1,5 +1,11 @@
 TEST, NEW-ET, 1=
-/AH .
+/AH /AI .
 ^EOS
 TEST, NEW-ET, 2=
-AH .
+/AH AI .
+^EOS
+TEST, NEW-ET, 3=
+AH /AI .
+^EOS
+TEST, NEW-ET, 4=
+AH AI .

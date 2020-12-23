@@ -5,6 +5,10 @@ AH                      , New Top
 AH00                    ,                                                                                                                         
 AH01                    ,                                                                                                                         
 AH1                     ,                                                                                                                         
+AI                      , New Top Event                                                                                                           
+AI00                    ,                                                                                                                         
+AI01                    ,                                                                                                                         
+AI1                     ,                                                                                                                         
 INIT-EV                 ,                                                                                                                         
 <FALSE>                 , System Generated Success Event                                                                                          
 <INIT>                  , System Generated Initiating Event                                                                                       

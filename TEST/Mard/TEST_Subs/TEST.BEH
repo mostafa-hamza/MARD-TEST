@@ -9,6 +9,14 @@ AH01                    , RANDOM, , N
 ^EOS
 AH1                     , RANDOM, , N
 ^EOS
+AI                      , RANDOM, , N
+^EOS
+AI00                    , RANDOM, , N
+^EOS
+AI01                    , RANDOM, , N
+^EOS
+AI1                     , RANDOM, , N
+^EOS
 INIT-EV                 , RANDOM, , N
 ^EOS
 <FALSE>                 , RANDOM, , N

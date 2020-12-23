@@ -1,20 +1,26 @@
 TEST, NEW-ET, INIT-EV = 
 ^WINVER2.1
-^PHASES 1 2 1  //# phases defined, max count sequences, initial phase
+^PHASES 1 4 1  //# phases defined, max count sequences, initial phase
 PHASE_1 16155777 Phase 1
 ^TOPS
-AH
+AH, AI
 ^LOGIC 1                  // initial phase, following are offset
- +1.0
- -1.0
+ +1.0 +2.0
+      -2.0
+ -1.0 +2.0
+      -2.0
 ^SEQUENCES 0                          // offset from initial phase
 N, Sequence Name, Y, End State, N, Frequency, N, Comments, 
+Y, , Y, , Y, , Y, , , 
+Y, , Y, , Y, , Y, , , 
 Y, , Y, , Y, , Y, , , 
 Y, , Y, , Y, , Y, , , 
 ^ENDSEQUENCES      //Now postprocess end names
 ^TOPDESC
 !
 "New Top"
+!
+"New Top Event"
 !
 ^NODESUBS
 ^TEXT

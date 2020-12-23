@@ -4,6 +4,10 @@ AH                      ,
 AH00                    ,  
 AH01                    ,  
 AH1                     ,  
+AI                      ,  
+AI00                    ,  
+AI01                    ,  
+AI1                     ,  
 INIT-EV                 ,  
 <FALSE>                 , S
 <INIT>                  , S
