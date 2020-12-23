@@ -1,35 +1,35 @@
 #ignore all kind of files
 *.*
 #except Mar-D files
-!* .MARD
-!* .FAD
-!* .FAA
-!* .FAT
-!* .FAY
-!* .FAP
-!* .FAS
-!* .FTD
-!* .FTL
-!* .FTT
-!* .FTY
-!* .BED
-!* .BEI
-!* .BEA
-!* .BET
-!* .BEC
-!* .BEN
-!* .ETD
-!* .ETA
-!* .ETG
-!* .ETR
-!* .ETT
-!* .ETY
-!* .ETP
-!* .ESD
-!* .EST
-!* .ENC
-!* .SQD
-!* .SQA
-!* .SQT
-!* .SQY
-!* .SQP
+!*.MARD
+!*.FAD
+!*.FAA
+!*.FAT
+!*.FAY
+!*.FAP
+!*.FAS
+!*.FTD
+!*.FTL
+!*.FTT
+!*.FTY
+!*.BED
+!*.BEI
+!*.BEA
+!*.BET
+!*.BEC
+!*.BEN
+!*.ETD
+!*.ETA
+!*.ETG
+!*.ETR
+!*.ETT
+!*.ETY
+!*.ETP
+!*.ESD
+!*.EST
+!*.ENC
+!*.SQD
+!*.SQA
+!*.SQT
+!*.SQY
+!*.SQP
