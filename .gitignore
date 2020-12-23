@@ -1,5 +1,5 @@
 #ignore all kind of files
-*
+*.*
 #except Mar-D files
 !* .MARD
 !* .FAD
